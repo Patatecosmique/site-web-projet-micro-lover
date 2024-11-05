@@ -1,0 +1,32 @@
+body {
+    background-color: #ffff;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2% 6%;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 500;
+    color: black;
+}
+
+.MICRO {
+    color: #3f65f0;
+}
+
+.navigation .category {
+    padding: 8px 12px;
+}
+    
+.category a {
+    color: black;
+    text-decoration: none;
+    font-size: 17px;
+    transition: 0.5s;
+    cursor: pointer;
+}
